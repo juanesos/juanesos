@@ -12,10 +12,8 @@ Analista de datos con amplia experiencia en el sector TI, desarrollando funcione
  
 ## 🚀 Proyectos Destacados
  
-### [Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto1) Un proyecto de desarrollo web donde creé una plataforma de gestión de tareas utilizando React y Tailwind. Algunas funcionalidades incluyen: - Interfaz de usuario intuitiva. - Gestión de tareas en tiempo real. - Integración con Firebase.
- 
-### [Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto2) Un sistema de seguimiento de estudiantes desarrollado en React con Zustand para manejo de estados. Este proyecto se enfoca en mejorar la comunicación entre docentes y alumnos mediante un panel de control interactivo.
- 
+### [Banco Digital - Gestión base de datos BankTech](https://github.com/juanesos/ProyectoFinalData3) Un proyecto de base de datos optimizada e interzar de usuario y administrador, para la gestión de clientes, productos, transacciones y cartera, en una aplicación de banca digital.
+  
 ---
  
 ## 📫 Conectemos
