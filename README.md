@@ -1,8 +1,12 @@
 # 👋 ¡Hola! Soy Juan Esteban Osorio
 
-Analista de datos con amplia experiencia en el sector TI, desarrollando funciones en cuanto a la extracción, análisis e interpretación de datos para impulsar la toma de decisiones estratégicas y el mejoramiento de procesos. He trabajado en soporte TI y gestión de proyectos en entornos digitales, liderando procesos de implementación y transformación tecnológica. Manejo herramientas como SQL, Python y Power BI, integraciones y automatización de proceso en Zapier, así como plataformas de gestión y soporte como Asana, HubSpot y Pipedrive. Busco retos profesionales que me permitan aprovechar el poder del análisis de datos para optimizar operaciones y generar valor a los negocios.
- 
----
+Soy Analista de Datos, Gestor de Proyectos TI, Tecnólogo en Gestión Financiera, con nivel de inglés B1 y amplia experiencia en el sector digital.
+
+He trabajado en soporte TI, gestión de proyectos en entornos digitales e integración de tecnologías con CRM y ERP, liderando procesos de implementación y transformación digital, también he desarrollando funciones como la extracción, análisis e interpretación de datos para impulsar la toma de decisiones estratégicas y el mejoramiento de procesos.
+
+Manejo herramientas como SQL, Python y Power BI, APIs REST, integraciones y automatización de procesos en Zapier, así como plataformas de gestión y soporte como Asana, CRM como HubSpot y Pipedrive.
+
+Busco retos profesionales que me permitan aprovechar el poder del análisis de datos para optimizar operaciones y generar valor a los negocios.
  
 ## 🛠️ Tecnologías y Herramientas
 
