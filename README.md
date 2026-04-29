@@ -4,7 +4,7 @@ Me dedico a gestionar proyectos y liderar transformación digital. Soy tecnólog
 
 Cuento con amplia experiencia en el sector digital, implementando herramientas y sistemas que integran proyectos, plataformas y áreas clave para optimizar procesos de negocio. Mi trayectoria incluye soporte operativo, estrategia y liderazgo de equipos multidisciplinarios, donde he cooperado en la creación e implementación de soluciones digitales y análisis de datos para la toma de decisiones estratégicas.
 
-Hoy me entusiasma la IA: Crear agentes inteligentes, automatizaciones y workflows que conectan aplicaciones para transformar la operación y los datos en valor tangible. He combinado gestión de proyectos, business intelligence y herramientas de IA para resolver desafíos reales.
+Hoy me entusiasma la IA: Crear proyectos, agentes inteligentes, automatizaciones, también integraciones y ecosistemas que conectan aplicaciones para transformar la operación y los datos en valor tangible. He combinado gestión de proyectos, business intelligence y herramientas de IA para resolver desafíos reales.
 
 Busco retos donde pueda aplicar esta sinergia de habilidades, para generar impacto medible, innovación y eficiencia operativa.
 
